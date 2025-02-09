@@ -28,6 +28,7 @@ This project is an automation system that leverages a Chrome extension and a ser
 9. **And**: The extension sends it back for AI summarization.
 10. **And**: The server responds with the AI summarized data.
 11. **And**: The extension displays the result.
+![alt text](diagram.png)
 
 ## Installation
 
